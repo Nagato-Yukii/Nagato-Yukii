@@ -4,8 +4,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagato-Yukii&theme=dark&text_color=ADD8E6&title_color=FFFF00&hide_title=true&layout=compact)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Nagato-Yukii&left_color=green&right_color=red)
-<!--
+[![Nagato-Yukii's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nagato-Yukii&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nagato-Yukii)](https://git.io/streak-stats)
+
 **Nagato-Yukii/Nagato-Yukii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
