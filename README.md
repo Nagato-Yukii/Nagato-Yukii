@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagato-Yukii&theme=dark)
+![Nagato-Yukii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagato-Yukii&theme=dark&ring_color=800080&text_color=ADD8E6&title_color=FFFF00)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagato-Yukii&theme=dark&text_color=ADD8E6&title_color=FFFF00&hide_title=true&layout=compact)
 <!--
 **Nagato-Yukii/Nagato-Yukii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
