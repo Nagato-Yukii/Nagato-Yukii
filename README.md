@@ -6,7 +6,7 @@
 
 [![Nagato-Yukii's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nagato-Yukii&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nagato-Yukii)](https://git.io/streak-stats)
+
 
 **Nagato-Yukii/Nagato-Yukii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
