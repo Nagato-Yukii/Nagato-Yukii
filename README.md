@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="CV.png">
-    <img src="CV2025819.png" alt="My CV" />
+    <img src="CV_20250831.png" alt="My CV" />
   </a>
 </p>
 
